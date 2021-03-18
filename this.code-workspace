@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		// appereance
+    "editor.fontSize": 16,
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+    "editor.accessibilitySupport": "off",
+    "terminal.integrated.fontSize": 16,
+    "workbench.statusBar.visible": false,
+    "workbench.colorTheme": "Omni",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.activityBar.visible": false,
+    "window.zoomLevel": 1,
+		
+    // formatter
+    "vscode.liveHtmlPreviewerV2.disableWebViewStyling": true,
+    "prettier.tabWidth": 2,
+    "editor.tabSize": 2,
+    "git.enabled": false,
+
+    // auto import
+    "tabnine.experimentalAutoImports": true,
+    "javascript.suggest.autoImports": true,
+
+		// formatter
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+	}
+}

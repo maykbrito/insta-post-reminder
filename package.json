@@ -1,0 +1,23 @@
+{
+  "name": "insta_post",
+  "version": "1.0.0",
+  "description": "Série de 4 aulas no YouTube para treinarmos Javascript no Browser e app Desktop",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maykbrito/insta-post-reminder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maykbrito/insta-post-reminder/issues"
+  },
+  "homepage": "https://github.com/maykbrito/insta-post-reminder#readme",
+  "devDependencies": {
+    "electron": "^12.0.1"
+  }
+}
