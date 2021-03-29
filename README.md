@@ -9,7 +9,7 @@ Série de 5 aulas no YouTube para treinarmos Javascript no Browser e app Desktop
 - [x] [Aula 02: Sistema de Timer](https://youtu.be/MJAwA2rICzs)
 - [x] [Aula 03: Sistema de Eventos](https://youtu.be/y5xhkvl2Jmc)
 - [x] [Aula 04: App Desktop com Electron](https://youtu.be/3qTkfnBhBVU)
-- [] Aula 05: Tray com Electron
+- [x] [Aula 05: Tray (Barra de tarefas) com Electron](https://youtu.be/XEjclRuUIxU)
 
 ## O que estamos aprendendo?
 

@@ -2,9 +2,10 @@
   "name": "insta_post",
   "version": "1.0.0",
   "description": "Série de 4 aulas no YouTube para treinarmos Javascript no Browser e app Desktop",
-  "main": "main.js",
+  "main": "electron/main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "build": "npx electron-packager . --icon assets/instagram.icns --out=packages"
   },
   "repository": {
     "type": "git",
